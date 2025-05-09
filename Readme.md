@@ -19,7 +19,6 @@ It models products, customers, orders, and inventory, using best practices for c
 
 ---
 
-## 📦 Project Structure
 
 
 ---
